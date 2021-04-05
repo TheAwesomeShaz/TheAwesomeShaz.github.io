@@ -191,8 +191,9 @@ body {
 
 .project-image {
   margin-top: 100px;
-  height: 300px;
-  width: 500px;
+
+  height: 144px;
+  width: 240px;
   transition: all ease 0.5s;
 }
 
@@ -220,13 +221,13 @@ body {
   padding-left: 60px;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 700px) {
   .right-column {
     padding: 12px;
   }
   .project-image {
-    height: 240px;
-    width: 320px;
+    height: 144px;
+    width: 176px;
   }
 }
 /* ---------------------- Footer Section ------------------------- */
