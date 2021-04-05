@@ -192,8 +192,8 @@ body {
 .project-image {
   margin-top: 100px;
 
-  height: 144px;
-  width: 240px;
+  height: 300px;
+  width: 500px;
   transition: all ease 0.5s;
 }
 
@@ -226,8 +226,9 @@ body {
     padding: 12px;
   }
   .project-image {
-    height: 144px;
-    width: 176px;
+    padding: 0px;
+    height: 240px;
+    width: 350px;
   }
   .left-column {
     border: none;
