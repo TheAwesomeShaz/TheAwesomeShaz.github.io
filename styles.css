@@ -229,6 +229,9 @@ body {
     height: 144px;
     width: 176px;
   }
+  .left-column {
+    border: none;
+  }
 }
 /* ---------------------- Footer Section ------------------------- */
 
