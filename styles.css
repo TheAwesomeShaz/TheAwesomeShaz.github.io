@@ -224,6 +224,10 @@ body {
   .right-column {
     padding: 12px;
   }
+  .project-image {
+    height: 240px;
+    width: 320px;
+  }
 }
 /* ---------------------- Footer Section ------------------------- */
 
