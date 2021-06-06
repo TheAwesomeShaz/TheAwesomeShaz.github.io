@@ -1,3 +1,3 @@
 # ShahbaazKhan-TheAwesomeShaz.github.io
 
-<a href="theawesomeshaz.github.io">Portfolio?</a>
+<a href="https://theawesomeshaz.github.io/">Portfolio?</a>
