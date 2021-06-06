@@ -1,3 +1,1 @@
-# TheAwesomeShaz.github.io
-
-# <a href="https://theawesomeshaz.github.io/">Portfolio?</a>
+# <a href="https://theawesomeshaz.github.io/">Wanna see my Portfolio?</a>
