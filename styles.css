@@ -185,6 +185,8 @@ body {
 .project-heading:hover {
   font-size: 50px;
   margin-top: 100px;
+  user-select: none;
+
   color: rgb(255, 193, 7);
   transition: all ease 0.5s;
 }
