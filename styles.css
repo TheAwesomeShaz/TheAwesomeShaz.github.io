@@ -162,7 +162,7 @@ body {
   -webkit-user-select: none;
   font-size: 70px;
   font-weight: 700;
-  color: rgb(153, 0, 255);
+  color: #b999c9;
 
   transition: all ease 0.5s;
 }
@@ -171,7 +171,7 @@ body {
   margin-top: 300px;
   font-size: 70px;
   font-weight: 700;
-  color: rgb(255, 193, 7);
+  color: #ffcc58;
   transition: all ease 0.5s;
 }
 
