@@ -181,9 +181,9 @@ body {
   transition: all ease 0.5s;
 }
 
-.image-column{
+/* .image-column{
   display: block;
-}
+} */
 
 .project-heading {
   font-size: 50px;
@@ -245,6 +245,10 @@ body {
     height: 200px;
     width: 300px;
   }
+/* 
+  .image-column{
+  display: block;
+} */
 
   .project-heading{
     text-align: center;
@@ -253,6 +257,8 @@ body {
   .promo-title{
     text-align: center;
   }
+
+  
 
   .project-image:hover {
     padding: 0px;
