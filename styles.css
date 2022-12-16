@@ -3,6 +3,12 @@ body {
 
   color: white;
 }
+
+.lead{
+  font-size: 18px;
+  margin-left: 5px;
+}
+
 .nav-bar {
   position: sticky;
   top: 0;
@@ -175,6 +181,10 @@ body {
   transition: all ease 0.5s;
 }
 
+.image-column{
+  display: block;
+}
+
 .project-heading {
   font-size: 50px;
   margin-top: 100px;
@@ -207,11 +217,12 @@ body {
 }
 
 .play-button {
-  margin-left: auto;
+  
+  margin-top: 2rem;
 }
 /* ---------------------- About Section ------------------------- */
 .side-heading {
-  font-size: 35px;
+  font-size: 25px;
   margin-top: 50px;
   margin-bottom: 35px;
 }
@@ -234,6 +245,15 @@ body {
     height: 200px;
     width: 300px;
   }
+
+  .project-heading{
+    text-align: center;
+  }
+
+  .promo-title{
+    text-align: center;
+  }
+
   .project-image:hover {
     padding: 0px;
     align-items: center;
@@ -243,6 +263,7 @@ body {
   .left-column {
     border: none;
   }
+ 
 }
 /* ---------------------- Footer Section ------------------------- */
 
