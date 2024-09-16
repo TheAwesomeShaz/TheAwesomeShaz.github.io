@@ -13,7 +13,7 @@ tags: ["Personal Project", "Published"]
 - It was made in 2 days for the GMTK gamejam 2021
 - Four people were involved in the project
 - I was responsible for the programming, we had a voice actor, a 3D artist and a Sound designer. 
-- The Game is playable on a windows PC: <iframe frameborder="0" src="https://itch.io/embed/1086296?dark=true" width="552" height="167"><a href="https://theawesomeshaz.itch.io/cyberbird">Cyberbird by TheAwesomeShaz</a></iframe>
+- The Game is playable on a windows PC: <iframe frameborder="0" class = "flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row" src="https://itch.io/embed/1086296?dark=true" width="552" height="167"><a href="https://theawesomeshaz.itch.io/cyberbird">Cyberbird by TheAwesomeShaz</a></iframe>
 
 ### Gameplay
 - Gameplay includes moving on a hoverboard and deflecting bullets

@@ -16,7 +16,7 @@ tags: ["Personal Project", "Published"]
 - This was made as a mini project in my third year of Computer Science Engineering
 - I worked on the programming art and music for this project
 - Unity C# and FLstudio were used
-- It is a downloadable game for Windows : <iframe frameborder="0" src="https://itch.io/embed/960909?dark=true" width="552" height="167"><a href="https://theawesomeshaz.itch.io/loaded-dungeon">LOADED DUNGEON by TheAwesomeShaz</a></iframe>  
+- It is a downloadable game for Windows : <iframe frameborder="0" class = "flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row" src="https://itch.io/embed/960909?dark=true" width="552" height="167"><a href="https://theawesomeshaz.itch.io/loaded-dungeon">LOADED DUNGEON by TheAwesomeShaz</a></iframe>  
 
 ### Gameplay
 - Gameplay includes shooting enemies which are spawned in the maze

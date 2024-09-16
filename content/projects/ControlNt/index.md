@@ -17,7 +17,8 @@ tags: ["Personal Project", "Published"]
 - It was a solo project I did the programming, art and the Music for this project
 - Programming was done in C#, Game Engine used was Unity
 - Music was made in FLStudio
-- It is a Downloadable game for Windows PC as well a browser game:<iframe frameborder="0" src="https://itch.io/embed/697356?dark=true" width="552" height="167"><a href="https://theawesomeshaz.itch.io/control-nt">CONTROL'NT by TheAwesomeShaz</a></iframe>
+- It is a Downloadable game for Windows PC as well a browser game:
+- <iframe frameborder="0" class = "flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row" src="https://itch.io/embed/697356?dark=true"width="552" height="167" ><a href="https://theawesomeshaz.itch.io/control-nt">CONTROL'NT by TheAwesomeShaz</a></iframe>
 
 ### Gameplay
 - Gameplay includes clicking the surroundings of the player to shoot

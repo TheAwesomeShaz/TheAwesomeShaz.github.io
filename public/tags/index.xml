@@ -2,50 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on TheAwesomeShaz</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>http://localhost:57925/tags/</link>
     <description>Recent content in Tags on TheAwesomeShaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (Shahbaaz Khan)</managingEditor>
     <webMaster>youremail@example.com (Shahbaaz Khan)</webMaster>
     <copyright>© 2024 Shahbaaz Khan</copyright>
-    <lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:57925/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Commercial Project</title>
-      <link>http://localhost:1313/tags/commercial-project/</link>
+      <link>http://localhost:57925/tags/commercial-project/</link>
       <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
       <author>youremail@example.com (Shahbaaz Khan)</author>
-      <guid>http://localhost:1313/tags/commercial-project/</guid>
+      <guid>http://localhost:57925/tags/commercial-project/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Published</title>
-      <link>http://localhost:1313/tags/published/</link>
+      <link>http://localhost:57925/tags/published/</link>
       <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
       <author>youremail@example.com (Shahbaaz Khan)</author>
-      <guid>http://localhost:1313/tags/published/</guid>
+      <guid>http://localhost:57925/tags/published/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Personal Project</title>
-      <link>http://localhost:1313/tags/personal-project/</link>
+      <link>http://localhost:57925/tags/personal-project/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       <author>youremail@example.com (Shahbaaz Khan)</author>
-      <guid>http://localhost:1313/tags/personal-project/</guid>
+      <guid>http://localhost:57925/tags/personal-project/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Work in Progress</title>
-      <link>http://localhost:1313/tags/work-in-progress/</link>
+      <link>http://localhost:57925/tags/work-in-progress/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       <author>youremail@example.com (Shahbaaz Khan)</author>
-      <guid>http://localhost:1313/tags/work-in-progress/</guid>
+      <guid>http://localhost:57925/tags/work-in-progress/</guid>
       <description></description>
       
     </item>

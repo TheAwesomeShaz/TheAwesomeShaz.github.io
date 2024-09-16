@@ -26,7 +26,9 @@ tags: ["Personal Project", "Published"]
 - This causes a reset in the level, layout, color scheme and music.
 - The music remains the same but the instruments change giving a sense of familiarity
 - The main Objective of the game is reach the portals in each dimension
-- It is a downloadable game for Windows PC : <iframe frameborder="0" src="https://itch.io/embed/1622097?dark=true" width="552" height="167"><a href="https://theawesomeshaz.itch.io/role-of-a-dies">ROLE OF A DIES by TheAwesomeShaz</a></iframe>
+- It is a downloadable game for Windows PC : <iframe frameborder="0" class = "flex flex-col max-w-full mt-0 prose dark:prose-invert lg:flex-row" src="https://itch.io/embed/1622097?dark=true" width="552" height="167"><a href="https://theawesomeshaz.itch.io/role-of-a-dies">ROLE OF A DIES by TheAwesomeShaz</a></iframe>
+
+
 ### Stuff learned
 - Learned how to break apart a 3D object
 - Learned how to organize code using enums
