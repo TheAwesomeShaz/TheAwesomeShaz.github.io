@@ -22,7 +22,7 @@ title = "TheAwesomeShaz"
    headline = "Professional Gamedev and Procrastinator"
 #   bio = "A little bit about you"
    links = [
-#     { email = "mailto:hello@your_domain.com" },
+   { email = "https://mail.google.com/mail/?view=cm&fs=1&to=shahbaazkhanofficial@gmail.com" },
    { instagram = "https://instagram.com/the_awesome_shaz" },
    { youtube = "https://www.youtube.com/@TheAwesomeShaz" },
    { itch-io = "https://theawesomeshaz.itch.io/" },
