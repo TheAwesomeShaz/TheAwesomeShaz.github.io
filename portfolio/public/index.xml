@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TheAwesomeShaz</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on TheAwesomeShaz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>youremail@example.com (Shahbaaz Khan)</managingEditor>
+    <webMaster>youremail@example.com (Shahbaaz Khan)</webMaster>
+    <copyright>© 2024 Shahbaaz Khan</copyright>
+    <lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fears to Fathom Episode 5</title>
+      <link>http://localhost:1313/projects/f2fe5/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Shahbaaz Khan)</author>
+      <guid>http://localhost:1313/projects/f2fe5/</guid>
+      <description>Fears to Fathom Woodbury Getaway</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/f2fe5/featured.gif" />
+    </item>
+    
+    <item>
+      <title>Parkour System</title>
+      <link>http://localhost:1313/projects/parkoursystem/</link>
+      <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Shahbaaz Khan)</author>
+      <guid>http://localhost:1313/projects/parkoursystem/</guid>
+      <description>A Third Person Parkour System</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/parkoursystem/featured.gif" />
+    </item>
+    
+    <item>
+      <title>Role of a Dies</title>
+      <link>http://localhost:1313/projects/roleofthedies/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Shahbaaz Khan)</author>
+      <guid>http://localhost:1313/projects/roleofthedies/</guid>
+      <description>An isometric puzzle game</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/roleofthedies/featured.gif" />
+    </item>
+    
+    <item>
+      <title>CyberBird</title>
+      <link>http://localhost:1313/projects/cyberbird/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Shahbaaz Khan)</author>
+      <guid>http://localhost:1313/projects/cyberbird/</guid>
+      <description>A Synthwave Hoverboard Simulator</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/cyberbird/featured.gif" />
+    </item>
+    
+    <item>
+      <title>Intiqaam</title>
+      <link>http://localhost:1313/projects/intiqaam/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Shahbaaz Khan)</author>
+      <guid>http://localhost:1313/projects/intiqaam/</guid>
+      <description>A Third Person Stealth Game</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/intiqaam/featured.gif" />
+    </item>
+    
+    <item>
+      <title>Loaded Dungeon</title>
+      <link>http://localhost:1313/projects/loaded-dungeon/</link>
+      <pubDate>Thu, 18 Mar 2021 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Shahbaaz Khan)</author>
+      <guid>http://localhost:1313/projects/loaded-dungeon/</guid>
+      <description>A 2D Maze Shooter game</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/loaded-dungeon/featured.gif" />
+    </item>
+    
+    <item>
+      <title>Control&#39;nt</title>
+      <link>http://localhost:1313/projects/controlnt/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <author>youremail@example.com (Shahbaaz Khan)</author>
+      <guid>http://localhost:1313/projects/controlnt/</guid>
+      <description>A Top Down Shooter</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/controlnt/featured.gif" />
+    </item>
+    
+  </channel>
+</rss>
