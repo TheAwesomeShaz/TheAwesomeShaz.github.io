@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work in Progress on TheAwesomeShaz</title>
-    <link>http://localhost:57925/tags/work-in-progress/</link>
+    <link>http://localhost:1313/tags/work-in-progress/</link>
     <description>Recent content in Work in Progress on TheAwesomeShaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>youremail@example.com (Shahbaaz Khan)</managingEditor>
     <webMaster>youremail@example.com (Shahbaaz Khan)</webMaster>
     <copyright>© 2024 Shahbaaz Khan</copyright>
-    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:57925/tags/work-in-progress/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/work-in-progress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Parkour System</title>
-      <link>http://localhost:57925/projects/parkoursystem/</link>
+      <link>http://localhost:1313/projects/parkoursystem/</link>
       <pubDate>Thu, 31 Aug 2023 00:00:00 +0000</pubDate>
       <author>youremail@example.com (Shahbaaz Khan)</author>
-      <guid>http://localhost:57925/projects/parkoursystem/</guid>
+      <guid>http://localhost:1313/projects/parkoursystem/</guid>
       <description>A Third Person Parkour System</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:57925/projects/parkoursystem/featured.gif" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/parkoursystem/featured.gif" />
     </item>
     
   </channel>
