@@ -5,7 +5,7 @@ featureimage: https://img.itch.zone/aW1nLzM4NDU0OTgucG5n/315x250%23c/lW4Iqj.png
 <meta property="og:image" content="images.png">
 
 
-{{< button href="https://www.dropbox.com/scl/fi/re1iwr35u7914ox4pnhmi/SHAHBAAZ-KHAN-FlowCV-Resume-20240916.pdf?rlkey=pg5mkifl5zos0frz9ulzryrqf&st=go0ihztn&dl=0" target="_self" >}}
+{{< button href="SHAHBAAZ-KHAN-Resume.pdf" target="_self" >}}
 View Resume
 {{< /button >}}
 
