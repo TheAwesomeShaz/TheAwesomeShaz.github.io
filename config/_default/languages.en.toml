@@ -19,13 +19,13 @@ title = "TheAwesomeShaz"
    email = "youremail@example.com"
    image = "image.png"
 #   imageQuality = 96
-   headline = "Professional Gamedev and Youtuber"
+   headline = "Professional Gamedev"
 #   bio = "A little bit about you"
    links = [
    { email = "https://mail.google.com/mail/?view=cm&fs=1&to=shahbaazkhanofficial@gmail.com" },
    { instagram = "https://instagram.com/the_awesome_shaz" },
-   { youtube = "https://www.youtube.com/@TheAwesomeShaz" },
+   # { youtube = "https://www.youtube.com/@TheAwesomeShaz" },
    { itch-io = "https://theawesomeshaz.itch.io/" },
-   { discord = "https://discord.gg/CDnQu9mxgd" },
+   # { discord = "https://discord.gg/CDnQu9mxgd" },
    { github = "https://github.com/TheAwesomeShaz" },
 ]
